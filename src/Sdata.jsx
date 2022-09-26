@@ -1,29 +1,34 @@
 const Sdata=[
     {
+        id:1,
         sname:"Squid Game",
         imgsrc:"https://wallpaperboat.com/wp-content/uploads/2021/10/18/79418/squid-game-11.jpg" ,
         title:"A Netflix Original Series",
         link:"https://www.netflix.com/in/title/81040344",
     },
     {
+        id:2,
         sname:"All of us are dead",
         imgsrc:"https://m.media-amazon.com/images/M/MV5BOTY1ZGM2YzQtMTBjZC00NjE2LWJlNzUtYjA0YjYxNzBjMmRjXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_FMjpg_UX1000_.jpg" ,
         title:"A Netflix Original Series",
         link:"https://www.netflix.com/in/title/81237994",
     },
     {
+        id:3,
         sname:" DARK ",
         imgsrc:"https://wallpapercave.com/wp/wp4056410.jpg" ,
         title:"A Netflix Original Series",
         link:"https://www.netflix.com/in/title/80100172",
     },
     {
+        id:4,
         sname:"Extra Curricular ",
         imgsrc:"https://wallpapercave.com/w/wp7418494.jpg", 
         title:"A Netflix Original Series",
         link:"https://www.netflix.com/in/title/80990668",
     },
     {
+        id:5,
         sname:"Stranger Things",
         imgsrc:"https://wallpapercave.com/wp/wp1917154.jpg" ,
         title:"A Netflix Original Series",
