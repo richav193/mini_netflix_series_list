@@ -16,7 +16,7 @@ import Sdata from './Sdata';
 
 ReactDOM.render(
   <>
-  <h1 className='heading_style'>List of Top 5 Netflix series in 2020</h1>
+  <h1 className='heading_style'>List of Top 5 Netflix series in 2022</h1>
   
   {/* {Sdata.map(ncard)}  */}
   {/* {Sdata.map(function ncard(val){
