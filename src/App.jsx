@@ -1,6 +1,6 @@
 import React from 'react';
-// import Cards from "./Cards";
-// import Sdata from './Sdata';
+import Cards from "./Cards";
+import Sdata from './Sdata';
 import Netflix from './Netflix'; 
 import Amazon from './Amazon'; 
 
@@ -37,7 +37,7 @@ const favseries="netflix";
 const App = () => (
   <>
   <h1 className='heading_style'>List of Top 5 Netflix series in 2022</h1>
-  {/* {Sdata.map((val,index)=> {
+  {Sdata.map((val,index)=> {
     return(
         <Cards 
       key={val.id}
@@ -47,11 +47,11 @@ const App = () => (
         link={val.link}
   />
     );
-  })}  */}
+  })} 
 
   {/* <FavS/> */}
 
-  {favseries==="netflix" ? <Netflix/> : <Amazon/>}
+  {/* {favseries==="netflix" ? <Netflix/> : <Amazon/>} */}
   </>
 
 );
